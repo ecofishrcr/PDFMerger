@@ -1,5 +1,5 @@
 {
-    "name": "ecofish/pdfmerger",
+    "name": "ecofishrcr/pdfmerger",
     "description": "PDF Merger for PHP",
     "require":{
         "php": ">=5.2.0"
